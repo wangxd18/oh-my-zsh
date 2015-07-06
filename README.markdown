@@ -1,3 +1,11 @@
+# Wang Xudong的 Zsh 配置
+
+fork自robbyrussell/oh-my-zsh
+改动：
+修改了template
+定制了lightcone theme
+
+
 ![Oh My Zsh](https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png)
 
 
