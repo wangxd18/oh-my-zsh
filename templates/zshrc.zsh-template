@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/carl/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -89,9 +89,8 @@ export VIM_APP_DIR=/Applications
 
 alias fuck='$(thefuck $(fc -ln -1))'
 
-alias ll='ls -alG'
-alias l='ls -G'
-alias ls='ls -G'
+alias ll='ls -al'
+alias l='ls'
 alias c='clear'
 
 alias grep='grep --color=auto'
